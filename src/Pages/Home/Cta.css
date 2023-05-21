@@ -1,0 +1,23 @@
+.cta-inner {
+	width: 100%;
+	padding: 64px;
+	background-color: #0d28a6;
+	margin-top: 100px;
+	border-radius: 13px;
+	color: #fff;
+}
+.cta__title {
+	font-size: 36px;
+	line-height: 54px;
+}
+.cta__description {
+	max-width: 468px;
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 52px;
+}
+.cta .btn-primary {
+	color: #fff;
+	background-color: #28a745 !important;
+	border-color: #28a745 !important;
+}

@@ -1,0 +1,25 @@
+header {
+	background-color: #f1f3ff;
+}
+.nav-logo {
+	width: 100px;
+	height: 34px;
+}
+.nav-logo::after {
+	content: "";
+	position: absolute;
+	width: 100px;
+	height: 34px;
+	background-color: #0d28a6;
+}
+
+.nav-link {
+	font-size: 14px;
+	line-height: 20px;
+}
+.nav-link:not(:last-child) {
+	margin-right: 32px;
+}
+.nav-item:last-child .nav-link {
+	border: none;
+}

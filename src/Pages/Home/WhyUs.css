@@ -1,0 +1,24 @@
+.why-us {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.why-us__card-inner {
+	row-gap: 16px;
+}
+.why-us__card {
+	/* margin-top: 40px; */
+	width: 268px !important;
+	height: 196px;
+}
+.why-us__card-image {
+	width: 32px;
+}
+.why-us__card-title {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.p-20 {
+	padding: 20px;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef6bd1e.css",
+    "main.js": "/static/js/main.b89deef3.js",
+    "static/js/787.d08ef15a.chunk.js": "/static/js/787.d08ef15a.chunk.js",
+    "static/media/MercedesCar.png": "/static/media/MercedesCar.d65f675bb18851b695f3.png",
+    "static/media/car01.min.jpg": "/static/media/car01.min.579a599c5f3372fb4770.jpg",
+    "static/media/img_service.png": "/static/media/img_service.3a3db8c1608f427874ee.png",
+    "index.html": "/index.html",
+    "main.eef6bd1e.css.map": "/static/css/main.eef6bd1e.css.map",
+    "main.b89deef3.js.map": "/static/js/main.b89deef3.js.map",
+    "787.d08ef15a.chunk.js.map": "/static/js/787.d08ef15a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef6bd1e.css",
+    "static/js/main.b89deef3.js"
+  ]
+}

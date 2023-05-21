@@ -1,0 +1,18 @@
+.footer {
+	margin-top: 150px;
+	margin-bottom: 100px;
+}
+.footer .col p:not(:last-child),
+.footer .col a:not(:last-child) {
+	margin-bottom: 16px;
+}
+.footer .col a {
+	font-weight: 400;
+}
+.footer__icon-wrap {
+	column-gap: 16px;
+}
+.footer a {
+    color: inherit;
+    text-decoration: none;
+}
