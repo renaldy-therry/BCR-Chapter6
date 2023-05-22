@@ -8,7 +8,6 @@ import axios from "axios";
 
 const Cars = () => {
 	const [cars, setCars] = useState([]);
-	// [click, setClick] = useState(false);
 
 	const getCarsData = async (form) => {
 		try {
@@ -31,8 +30,6 @@ const Cars = () => {
 				}
 			});
 			setCars(FilteredDatas);
-			// setClick(true);
-			// console.log(click);
 		} catch (err) {
 			console.log(err);
 		}
