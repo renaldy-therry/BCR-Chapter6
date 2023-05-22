@@ -1,0 +1,35 @@
+.testimonial {
+	overflow-x: hidden;
+}
+.testimonial__text-wrap {
+	margin-bottom: 40px;
+}
+.testimonial .item {
+	padding: 69px 32px;
+	margin-top: 40px;
+	column-gap: 26px;
+	width: 555px;
+	height: 235px;
+	border-radius: 8px;
+	background-color: #f1f3ff;
+}
+.testimonial .icon-wrap .icon {
+	width: 16px;
+	height: 16px;
+	margin-bottom: 8px;
+}
+.testimonial .right-wrap {
+	width: 415px;
+}
+
+.testimonial .swiper-slide {
+	width: fit-content;
+}
+.testimonial .image-wrap img {
+	width: 80px !important;
+	height: 80px !important;
+}
+.testimonial-name {
+	font-weight: 400;
+	margin-top: 8px;
+}

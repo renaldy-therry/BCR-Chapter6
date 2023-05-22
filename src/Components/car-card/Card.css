@@ -1,0 +1,38 @@
+.cars-container .container {
+	max-width: 1047px;
+}
+.cars-container .card {
+	background: #ffffff;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+	border-radius: 8px;
+	padding: 20px 17px 15px;
+	border: none;
+}
+.cars-container .card > img {
+	width: 270px;
+	height: 160px;
+}
+.cars-container .card-title,
+.cars-container .card-desc,
+.cars-container .card-info p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.cars-container .card-title span {
+    font-size: 12px;
+}
+.cars-container .card-desc {
+	height: 60px;
+}
+.cars-container .card-harga {
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 700;
+}
+.cars-container .main__button {
+	height: 48px;
+}
+.cars-container #not-found {
+    margin-top: 100px;
+}
+

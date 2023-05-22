@@ -1,0 +1,12 @@
+.btn-success, .btn-success.active {
+	width: fit-content;
+	font-size: 14px;
+	background-color: #5cb85f;
+	color: #fff !important;
+}
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success:focus {
+	background-color: #157347;
+}
