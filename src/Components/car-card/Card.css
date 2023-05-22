@@ -7,7 +7,6 @@
 	border-radius: 8px;
 	padding: 20px 17px 15px;
 	border: none;
-	/* height: 530px; */
 }
 .cars-container .card > img {
 	width: 270px;
@@ -35,6 +34,5 @@
 }
 .cars-container #not-found {
     margin-top: 100px;
-	/* display: none; */
 }
 

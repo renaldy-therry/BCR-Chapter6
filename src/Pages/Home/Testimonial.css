@@ -9,8 +9,6 @@
 	margin-top: 40px;
 	column-gap: 26px;
 	width: 555px;
-	/* height: 270px; */
-	/* width: 619px; */
 	height: 235px;
 	border-radius: 8px;
 	background-color: #f1f3ff;
@@ -28,7 +26,6 @@
 	width: fit-content;
 }
 .testimonial .image-wrap img {
-	/* position: absolute; */
 	width: 80px !important;
 	height: 80px !important;
 }

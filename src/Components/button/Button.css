@@ -1,5 +1,4 @@
-.btn-success,
-.btn-success.active {
+.btn-success, .btn-success.active {
 	width: fit-content;
 	font-size: 14px;
 	background-color: #5cb85f;
