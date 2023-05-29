@@ -46,18 +46,11 @@ const CarCard = ({ cars }) => {
 											</p>
 											<p className="gear d-flex my-3">
 												<img src={SettingsImage} alt="setting icon"/>
-												<span className="ms-2">
-													{car.transmission}
-												</span>
+												<span className="ms-2"> {car.transmission} </span>
 											</p>
 											<p className="tahun d-flex mb-3">
-												<img
-													src={CalendarImage}
-													alt="calendar icon"
-												/>
-												<span className="ms-2">
-													Tahun {car.year}
-												</span>
+												<img src={CalendarImage} alt="calendar icon"/>
+												<span className="ms-2"> Tahun {car.year} </span>
 											</p>
 										</div>
 									</div>
