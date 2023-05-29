@@ -48,11 +48,8 @@ const Testimonial = () => {
 				</p>
 				<Swiper
 					slidesPerView={"auto"}
-					// centeredSlides={true}
 
 					spaceBetween={20}
-					// loop={true}
-					// loopFillGroupWithBlank={true}
 					pagination={{
 						clickable: true,
 					}}
