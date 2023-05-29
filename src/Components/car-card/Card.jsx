@@ -32,7 +32,7 @@ const CarCard = ({ cars }) => {
 											({car.type})
 										</span>
 									</Card.Title>
-									<Card.Text className="card-harga mb-1">
+									<Card.Text className="card-price mb-1">
 										Rp. {car.rentPerDay} / hari
 									</Card.Text>
 									<Card.Text className="card-desc font-weight-light mb-1">
