@@ -54,12 +54,7 @@ const CarCard = ({ cars }) => {
 											</p>
 										</div>
 									</div>
-									<Button
-										className="main__button w-100 fw-bold"
-										variant="success"
-									>
-										Pilih Mobil
-									</Button>
+									<Button className="button-main w-90 fw-bold" variant="success"> Pilih Mobil </Button>
 								</Card.Body>
 							</Card>
 						</Col>
