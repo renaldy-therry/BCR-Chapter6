@@ -37,11 +37,11 @@ const CarCard = ({ cars }) => {
 												<img src={UserImage} alt="user icon"/>
 												<span className="ms-1"> {car.capacity} orang</span>
 											</p>
-											<p className="gear d-flex my-3">
+											<p className="transmisi d-flex my-2">
 												<img src={SettingsImage} alt="setting icon"/>
 												<span className="ms-2"> {car.transmission} </span>
 											</p>
-											<p className="tahun d-flex mb-3">
+											<p className="tahun d-flex mb-2">
 												<img src={CalendarImage} alt="calendar icon"/>
 												<span className="ms-2"> Tahun {car.year} </span>
 											</p>
