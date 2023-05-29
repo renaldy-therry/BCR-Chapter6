@@ -33,7 +33,7 @@ const CarCard = ({ cars }) => {
 									</Card.Text>
 									<div className="card-info mt-4">
 										<div className="info">
-											<p className="orang d-flex mb-0">
+											<p className="kapasitas d-flex mb-0">
 												<img src={UserImage} alt="user icon"/>
 												<span className="ms-1"> {car.capacity} orang</span>
 											</p>
