@@ -8,23 +8,6 @@ import SettingsImage from "../../Assets/Images/fi_settings.png";
 import { Button, Card, Col, Row } from "react-bootstrap";
 
 const CarCard = ({ cars }) => {
-	// let textClass;
-	// if (cars === "kosong") {
-	// 	textClass = "d-block text-center";
-	// 	console.log(cars);
-	// 	cars = [];
-	// }
-	// else {
-	// 	textClass = "d-none";
-
-	// }
-	//     var totalProps = cars.reduce((a, obj) => a + Object.keys(obj).length, 0);
-	// 	console.log(totalProps);
-	// } else if (totalProps < 1 && cars !== null) {
-	// 	textClass = "d-block text-center";
-	// 	// cars = [];
-	// }
-
 	return (
 		<section className="cars-container mt-4">
 			<div className="container">
