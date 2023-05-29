@@ -24,7 +24,7 @@ const Hero = () => {
 						<img
 							className="main__image"
 							src={MercedesCar}
-							alt="Mercedes" />
+							alt="car" />
 					</div>
 				</div>
 			</div>
