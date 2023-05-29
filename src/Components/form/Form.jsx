@@ -129,10 +129,9 @@ const FormComp = ({ getCarsData }) => {
 								className="button-wrap d-flex align-items-end"
 							>
 								<Button
-									className="main__button font-weight-bold border-0"
+									className="button-main font-weight-bold border-0"
 									variant="success"
 									type="submit"
-									// onClick={(e) => getCarsData(form)}
 								>
 									Cari Mobil
 								</Button>
