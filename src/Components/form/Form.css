@@ -1,12 +1,14 @@
 .form-section {
 	margin-top: -60px;
 }
+
 .form-container {
 	max-width: 1047px;
 	position: relative;
 	background-color: #fff;
 	border-top-right-radius: 8px;
 }
+
 .form-container .form-row {
 	padding: 24px;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
@@ -14,6 +16,7 @@
 	margin-right: unset;
 	margin-left: unset;
 }
+
 .form-section label,
 .form-section option,
 .form-section select,
@@ -22,13 +25,14 @@
 	line-height: 18px !important;
 	color: var(--neutral-04) !important;
 }
+
 .form-section .input-group-text {
 	background-color: unset;
 	border-top-right-radius: 0.25rem !important;
 	border-bottom-right-radius: 0.25rem !important;
 	border-left: none;
-	/* border-radius: inherit !important; */
 }
+
 .form-section input,
 .form-section select {
 	height: 36px;
