@@ -11,9 +11,6 @@ const CarCard = ({ cars }) => {
 	return (
 		<section className="cars-container mt-4">
 			<div className="container">
-				{/* <div id="not-found" className={textClass}>
-					<p className="text-black-50">Data tidak ditemukan :(</p>
-				</div> */}
 				<Row>
 					{cars.map((car) => (
 						<Col className="mb-3" md={4} key={car.id}>
