@@ -2,14 +2,7 @@ import React, { useState } from "react";
 import "./Form.css";
 import CalendarImg from "../../Assets/Images/fi_calendar.png";
 import UserImg from "../../Assets/Images/fi_users.png";
-import {
-	Form,
-	Row,
-	Col,
-	FormControl,
-	InputGroup,
-	Button,
-} from "react-bootstrap";
+import { Form, Row, Col, FormControl, InputGroup, Button,} from "react-bootstrap";
 
 const FormComp = ({ getCarsData }) => {
 	const [form, setForm] = useState([]);
