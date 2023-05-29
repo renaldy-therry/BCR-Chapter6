@@ -15,15 +15,8 @@ const CarCard = ({ cars }) => {
 					{cars.map((car) => (
 						<Col className="mb-3" md={4} key={car.id}>
 							<Card>
-								<Card.Img
-									className="align-self-center"
-									variant="top"
-									src={
-										new URL(
-											`${car.image}?raw=true`,
-											"https://github.com/fnurhidayat/probable-garbanzo/blob/main/public/"
-										).href
-									}
+								<Card.Img className="align-self-center" variant="top"
+									src={ new URL(`${car.image}?raw=true`, "https://github.com/fnurhidayat/probable-garbanzo/blob/main/public/").href }
 								/>
 								<Card.Body>
 									<Card.Title className="mt-3 mb-1">
